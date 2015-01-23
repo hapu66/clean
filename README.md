@@ -5,7 +5,7 @@ INSTRUCTIONS FOR CREATING THE TIDY DATA SET from  data collected from the accele
 
 1. The first task is to unzip the given datafile into a directory, in my case in 
    "C:\Users\Hannu\cleaning"   This will create two subdirectories, "test and train",
-   where the actual test and traingin data is to be found.
+   where the actual test and training data is to be found.
 
 2.  Then the R program "run_analysis.R" should be run with "source".  The program requires
      libraries "data.table" and "reshape2",  but they should become loaded automatically.  Also
